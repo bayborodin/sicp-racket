@@ -1,5 +1,7 @@
 # Sicp Racket
 
+[![github action status](https://github.com/bayborodin/sicp-racket/workflows/Racket%20CI/badge.svg)](https://github.com/bayborodin/sicp-racket/actions)
+
 ### Requirements
 
 *  Racket
