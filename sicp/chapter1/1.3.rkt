@@ -1,12 +1,13 @@
 ; Exercise 1.3
 ; Define a procedure that takes three numbers as arguments
 ; and returns the sum of the squares of the two numbers.
+
 #lang sicp
 
 (#%require rackunit)
 
 (define (squaresum a b)
-        (+ (* a a) (* b b)))
+    (+ (* a a) (* b b)))
 
 (define (solution a b c)
             (if (> a b)
